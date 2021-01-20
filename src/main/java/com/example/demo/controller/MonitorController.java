@@ -39,6 +39,50 @@ public class MonitorController {
         skuMap.put("100014530230","茅台飞天 2019年 53度 500ml");
         skuMap.put("100006622027","茅台 庚子鼠年生肖酒 酱香型白酒 53度 500ml*6瓶 整箱装");
         skuMap.put("100006622035","茅台 庚子鼠年生肖酒 酱香型白酒 53度 500ml");
+        /*skuMap.put("100016168278","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199072","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016264756","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009186317","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009186315","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009424243","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009424225","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009424245","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016555298","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009424247","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199082","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199070","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199064","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199068","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100016199066","华为 HUAWEI Mate 40 Pro麒麟9000");
+        skuMap.put("100009165825","华为 HUAWEI Mate 40 Pro+麒麟9000");
+        skuMap.put("100016199110","华为 HUAWEI Mate 40 Pro+麒麟9000");
+        skuMap.put("100017133240","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100009808171","华为 HUAWEI Mate 40 8GB+128GB釉白色5G");
+        skuMap.put("100017133254","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100009808185","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100017133238","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100017133282","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100017133256","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100009808189","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100009808187","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100009808169","华为 HUAWEI Mate 40 8GB+128GB亮黑色5G");
+        skuMap.put("100017266040","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100009896581","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100017266084","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100009896589","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100009936813","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100009896603","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100017266046","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100017266066","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100017266000","华为 HUAWEI nova 8 Pro");
+        skuMap.put("100009896611","华为 HUAWEI nova 8");
+        skuMap.put("100017266048","华为 HUAWEI nova 8");
+        skuMap.put("100009896587","华为 HUAWEI nova 8");
+        skuMap.put("100017266050","华为 HUAWEI nova 8");
+        skuMap.put("100009896607","华为 HUAWEI nova 8");
+        skuMap.put("100017266062","华为 HUAWEI nova 8");
+        skuMap.put("100009896609","华为 HUAWEI nova 8");
+        skuMap.put("100009896605","华为 HUAWEI nova 8");*/
     }
 
     @RequestMapping("/start")
