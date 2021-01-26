@@ -154,7 +154,7 @@ public class MonitorController {
             JsonNode node = jsonNode.get(skuId);
             Integer skuState = node.get("skuState").asInt();
             Integer stockState = node.get("StockState").asInt();
-            if (skuState.equals(1) && (stockState.equals(33) || stockState.equals(40) || stockState.equals(36))) {
+            if ((skuState.equals(1) && (stockState.equals(39) || stockState.equals(33) || stockState.equals(40) || stockState.equals(36)))) {
                 //再次单个调用确认
                 if (skuString.contains(",")){
                     checkSkus(skuId);
